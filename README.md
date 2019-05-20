@@ -6,7 +6,7 @@ For this project I am going to build a portfolio site. This site will contain wo
 
 In order to build a site, I first planned layout pages. These wireframes show what the layout may be.
 
-![Wireframe of Landing Page](wireframes/wireframe-sketch1.jpg)
+![Wireframe of Landing Page](wireframes/wireframe-sketch1.JPG)
 
 Header - will include my name and subtitle
 
@@ -16,7 +16,7 @@ Main Content - will be a photo and a quote
 
 Footer - will include copyright information
 
-![Wireframe of About Page](wireframes/wireframe-sketch2.jpg)
+![Wireframe of About Page](wireframes/wireframe-sketch2.JPG)
 
 Header - will include my name and subtitle
 
@@ -26,7 +26,7 @@ Main Content - will a photo of me and talk about who I am
 
 Footer - will include copyright information
 
-![Wireframe of Contact Page](wireframes/wireframe-sketch3.jpg)
+![Wireframe of Contact Page](wireframes/wireframe-sketch3.JPG)
 
 Header - will include my name and subtitle
 
