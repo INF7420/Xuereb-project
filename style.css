@@ -74,6 +74,67 @@ li>a:hover {
     color: #4B0082;
     font-size: 30px;
 }
+
+.form-input {
+    border: 2px solid plum;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    flood-color: #4B0082;  
+}
+
+.form-input:focus {
+    outline: none;
+    border: 3px solid #9370DB;
+}
+
+[type="submit"] {
+    background: #9370DB;
+    color: white;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: 0;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: .2em;
+   
+}
+
+[type="submit"]:hover,
+[type="submit"]:focus {
+    background: #7B68EE;
+    border: 2px solid plum;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    flood-color: #4B0082; 
+}
+
+.textarea {
+    height: 150px;
+    resize: vertical;
+    border: 2px solid plum;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    flood-color: #4B0082; 
+}
+
+label {
+    display: block;
+    font-weight: 500;
+}
+
+form {
+    width: 100%;
+    margin: 2em auto;
+    font-size: 20px;
+    color: #4B0082;
+    text-transform: uppercase;
+}
+
 footer {
     margin: 1em 1em 0 1em;
     padding: 50px;
