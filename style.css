@@ -80,7 +80,9 @@ li>a:hover {
     border-radius: 5px;
     font-size: 20px;
     font-weight: 400;
-    flood-color: #4B0082;  
+    flood-color: #4B0082; 
+    display: block;
+    margin: auto auto 1em; 
 }
 
 .form-input:focus {
