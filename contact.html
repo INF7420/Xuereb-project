@@ -22,15 +22,15 @@
   </nav>
 
 <main class="main2">
-    <form action="https://formspree.io/gh8604@wayne.edu" method="POST">
+    <form action="https://formspree.io/gh8604@wayne.edu" method="POST" class="validate">
       <label for="name"> Name</label>
       <input id="name" type="text" name="name" class= "form-input">
 
-      <label for="email">Email</label>
-      <input id="email" type="email" name="_replyto" class="form-input">
+      <label for="email"> Email</label>
+      <input id="email" type="email" name="_replyto" class="form-input" required>
 
-      <label for="message">Message</label>
-      <textarea id="message" name="message" class="form-input" rows="4"></textarea>
+      <label for="message"> Message</label>
+      <textarea id="message" name="message" class="form-input" rows="4" required></textarea>
 
       <input type="submit" value="Send">
     </form>
@@ -47,5 +47,6 @@
   
 </main>
 <footer>(c) 2019 Linda Xuereb</footer>
+<script scr="script.js"></script>"
 </body>
 </html>
