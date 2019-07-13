@@ -124,9 +124,20 @@ li>a:hover {
     flood-color: #4B0082; 
 }
 
+.error {
+    border-color: #C62828;
+}
+
+.error-message {
+    color: #C62828;
+    margin: -1em 0 1.5em;
+    font-size: 10px;
+}
+
 label {
     display: block;
     font-weight: 500;
+    margin-bottom: 0.5em;
 }
 
 form {
