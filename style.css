@@ -3,7 +3,7 @@
     box-sizing: border-box;
     margin: 1em 1em 0 1em;
     padding: 10px;
-    background-color: #9370DB;
+    background-color: #7B68EE;
     color: white;
 } 
 
@@ -42,7 +42,7 @@ li>a:hover {
 }
 
 .quote {
-    color: purple;
+    color: #4B0082;
     font-size: 30px;
     text-emphasis: bold;
 }
@@ -61,7 +61,7 @@ li>a:hover {
 .title {
     text-align: center;
     color: #4B0082;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .main2 {
@@ -151,6 +151,8 @@ form {
 footer {
     margin: 1em 1em 0 1em;
     padding: 50px;
-    background-color: #9370DB;
+    background-color: #7B68EE;
     color: white;
+    font-size: 25px;
+    font: bold;
 }
