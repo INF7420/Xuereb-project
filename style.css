@@ -148,6 +148,15 @@ form {
     text-transform: uppercase;
 }
 
+.title3 {
+ text-align: center;
+}
+
+.main4 {
+    text-align: center;
+    justify-content: right;
+}
+
 footer {
     margin: 1em 1em 0 1em;
     padding: 50px;
